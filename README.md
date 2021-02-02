@@ -11,7 +11,7 @@ There is a description of the differences in ride-sharing data among the differe
 
 In the dataframe challenge_df3 shown below, we can see "average fare per ride" and "average fare per driver" are the highest in rural city type, but amount of rides and drivers are less in rural city. If we calculate and look at the total fare collected from January through April, rural city type produced the least amount of aggregate fare collected. By contrast, urban city type produced the highest aggregate fare. Additionally, the 3 different city types produce roughly the same rate over time of fare collected. This is indicated by the relatively flatness of the lines shown in totalfarebycity graph.
 
-![](Resources/Result50%Picture.png)
+![](Resources/Result%50Picture.png)
 
 
 
